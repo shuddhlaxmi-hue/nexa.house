@@ -106,7 +106,7 @@ const content_en = {
         bathrooms: 2,
         area: "1,200 sq ft",
         image:
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400&auto=format&fit=crop",
         category: "Apartment",
       },
       {
@@ -122,7 +122,7 @@ const content_en = {
         bathrooms: 4,
         area: "4,800 sq ft",
         image:
-          "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400&auto=format&fit=crop",
         category: "Villa",
       },
       {
@@ -138,7 +138,7 @@ const content_en = {
         bathrooms: 1,
         area: "550 sq ft",
         image:
-          "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&auto=format&fit=crop",
         category: "Studio",
       },
 
@@ -156,7 +156,7 @@ const content_en = {
         bathrooms: 2,
         area: "1,800 sq ft",
         image:
-          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400&auto=format&fit=crop",
         category: "Apartment",
       },
       {
@@ -172,7 +172,7 @@ const content_en = {
         bathrooms: 3,
         area: "2,400 sq ft",
         image:
-          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=400&auto=format&fit=crop",
         category: "Penthouse",
       },
       {
@@ -188,7 +188,7 @@ const content_en = {
         bathrooms: 5,
         area: "5,500 sq ft",
         image:
-          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&auto=format&fit=crop",
         category: "Villa",
       },
 
@@ -206,7 +206,7 @@ const content_en = {
         bathrooms: 3,
         area: "2,800 sq ft",
         image:
-          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&auto=format&fit=crop",
         category: "House",
       },
       {
@@ -222,7 +222,7 @@ const content_en = {
         bathrooms: 2,
         area: "1,600 sq ft",
         image:
-          "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=400&auto=format&fit=crop",
         category: "Farmhouse",
       },
       {
@@ -238,7 +238,7 @@ const content_en = {
         bathrooms: 2,
         area: "900 sq ft",
         image:
-          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=400&q=50&auto=format&fit=crop",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=400&auto=format&fit=crop",
         category: "Guest House",
       },
     ],
