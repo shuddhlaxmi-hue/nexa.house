@@ -56,6 +56,21 @@
   <meta name="theme-color" content="#8B5CF6">
 </head>
 <body>
+  <!-- DEMO MARQUEE BANNER -->
+  <div style="position: fixed; bottom: 0; left: 0; width: 100%; z-index: 99998; background: linear-gradient(90deg, rgba(30,5,5,0.97) 0%, rgba(50,10,10,0.97) 50%, rgba(30,5,5,0.97) 100%); border-top: 1px solid rgba(220,38,38,0.6); overflow: hidden; padding: 10px 0; font-family: 'Inter', sans-serif;">
+    <div style="display: flex; white-space: nowrap; animation: nexaMarquee 2.5s linear infinite;">
+      <span style="display: inline-block; padding-right: 80px; font-size: 14px; color: #fca5a5;"><span style="color: #ef4444; font-weight: 700;">⚠ DEMO SITE</span> &nbsp;|&nbsp; Coming Soon &mdash; A Glimpse into the Future! ✨ This is a conceptual preview showcasing the incredible possibilities of what the NEXA ecosystem could become.</span>
+      <span style="display: inline-block; padding-right: 80px; font-size: 14px; color: #fca5a5;"><span style="color: #ef4444; font-weight: 700;">⚠ DEMO SITE</span> &nbsp;|&nbsp; Coming Soon &mdash; A Glimpse into the Future! ✨ This is a conceptual preview showcasing the incredible possibilities of what the NEXA ecosystem could become.</span>
+      <span style="display: inline-block; padding-right: 80px; font-size: 14px; color: #fca5a5;"><span style="color: #ef4444; font-weight: 700;">⚠ DEMO SITE</span> &nbsp;|&nbsp; Coming Soon &mdash; A Glimpse into the Future! ✨ This is a conceptual preview showcasing the incredible possibilities of what the NEXA ecosystem could become.</span>
+    </div>
+  </div>
+  <style>
+    @keyframes nexaMarquee {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-33.333%); }
+    }
+  </style>
+
   <!-- COMING SOON POPUP -->
   <div id="comingSoonPopup" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(5, 8, 20, 0.85); z-index: 999999; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); font-family: 'Inter', sans-serif;">
     <div style="background: rgba(15, 22, 41, 0.95); border: 1px solid rgba(139, 92, 246, 0.3); border-top: 1px solid rgba(139, 92, 246, 0.6); text-align: center; padding: 40px 24px 30px; border-radius: 20px; position: relative; max-width: 450px; width: 100%; box-shadow: 0 20px 40px rgba(0,0,0,0.5), 0 0 40px rgba(139, 92, 246, 0.15);">
