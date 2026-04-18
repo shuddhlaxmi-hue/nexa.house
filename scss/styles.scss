@@ -457,6 +457,10 @@ i.fas, i.fab, i.far {
     max-width: 900px;
     animation: fadeInUp 0.6s ease-out 1s backwards;
 
+    @media (max-width: $breakpoint-desktop) {
+      max-width: none;
+    }
+
     .stat {
       text-align: center;
 
